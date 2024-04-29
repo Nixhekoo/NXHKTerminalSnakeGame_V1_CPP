@@ -7,6 +7,6 @@
 </div>
 
 ## Instructions
-- Download the [TSG Release 1.00.zip](https://github.com/Nixhekoo/TerminalSnakeGameCPP/blob/main/TSG%20Release%201.00.zip)
+- Download the [TSG Release 1.00.exe](https://github.com/Nixhekoo/TerminalSnakeGameCPP/raw/main/TSG%20Release%201.00.exe)
 - Place the Game anywhere you want
 - Play and Enjoy!
