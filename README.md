@@ -8,8 +8,5 @@
 
 ## Instructions
 - Download the [TSG Release 1.00.zip](https://github.com/Nixhekoo/TerminalSnakeGameCPP/blob/main/TSG%20Release%201.00.zip)
-- Extract the downloaded .zip using Windows or WinRar.
-- Follow instructions inside 'MUST READ.txt' file.
-
-## Passwords to Zip Files
-- Password for TSG Release 1.00 = Bc9SxH3N
+- Place the Game anywhere you want
+- Play and Enjoy!
