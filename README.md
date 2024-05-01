@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align=center>Terminal Snake Game</h1>
 • [1] Instructions <br>
+• [2] Source Code <br>
 
 </div>
 
@@ -10,3 +11,6 @@
 - *(If Windows Defender blocks the file, click "More Information" and "Run Anyways")*
 - Place the Game anywhere you want
 - Play and Enjoy!
+
+## Source Code
+- [TSG Source Code](https://github.com/Nixhekoo/TSG-TerminalSnakeGame_CPP/blob/main/snakegame.cpp)
