@@ -13,4 +13,4 @@
 - Play and Enjoy!
 
 ## Source Code
-- [TSG Source Code](https://github.com/Nixhekoo/TSG-TerminalSnakeGame_CPP/blob/main/snakegame.cpp)
+- Check out the [TSG Source Code](https://github.com/Nixhekoo/TSG-TerminalSnakeGame_CPP/blob/main/snakegame.cpp)
